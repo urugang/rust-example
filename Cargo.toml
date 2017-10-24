@@ -1,0 +1,25 @@
+[package]
+name = "rust-example"
+version = "0.1.0"
+authors = ["urugang <urugang@gmail.com>"]
+
+[dependencies]
+futures = "*"
+hyper = "*"
+serde_json="*"
+tokio-core="*"
+tokio-io="*"
+tokio-proto="*"
+tokio-service="*"
+bytes="*"
+futures-cpupool="*"
+serde_derive="*"
+threadpool="*"
+rand="*"
+net2="*"
+log="*"
+env_logger="*"
+nickel="*"
+rustc-serialize="*"
+r2d2="*"
+
